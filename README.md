@@ -8,7 +8,7 @@
 
 ## Скачать
 
-1. Откройте [последний релиз](../../releases/latest) и скачайте **DeskWidgets.exe**.
+1. Скачайте **[DeskWidgets.exe](https://github.com/the-sellar/DeskWidgets/releases/latest/download/DeskWidgets.exe)** — это прямая ссылка на последнюю версию (все версии — на [странице релизов](https://github.com/the-sellar/DeskWidgets/releases)).
 2. Положите его в любую папку (например, `Документы\DeskWidgets`) и запустите.
 
 Устанавливать ничего не нужно, Python тоже не нужен.
